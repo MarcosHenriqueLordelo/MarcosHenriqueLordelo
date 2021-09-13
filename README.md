@@ -3,7 +3,6 @@
 ### Hi there, Marcos here
 
 - 🔭 I’m currently working with [React Native](https://reactnative.dev)
-- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
 - 📎 I use daily `.js` `.ts`
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/marcos-marques-681167146/)
 - ⚡ Fun fact: I'm still [breathing](https://www.youtube.com/watch?v=cXYQXonK2SY)
